@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+#apple{
+    font-size: 40px;
+    color: white;
+}
